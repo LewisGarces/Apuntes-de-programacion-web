@@ -1,0 +1,23 @@
+
+*{
+    background-color: beige;
+}
+#titulo{
+    color: rgb(255, 0, 0);
+}
+.texto{
+    cursor: pointer;
+    cursor:move;
+}
+a {
+    color: aqua;
+}
+form>fieldset>label{
+    background-color: red;
+}
+.nav{
+    background-color: blue;
+}
+.nav:last-child{
+    background-color: azure;
+}
